@@ -65,7 +65,7 @@ function draw() {
   }
   
   drawSprites();
-  var score;
+  var score = 0;
   text("Score:"+score, 270, 30)
 }
 
